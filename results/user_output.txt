@@ -1,0 +1,4 @@
+Input : Python is a [MASK] language
+Output: Python is a programming language
+Input : Cricket is a [MASK] sport
+Output: Cricket is a popular sport

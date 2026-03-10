@@ -1,0 +1,2 @@
+Input  : Transformers use [MASK] attention
+Output : Transformers use self attention
