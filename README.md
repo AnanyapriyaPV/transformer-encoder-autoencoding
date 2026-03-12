@@ -115,7 +115,7 @@ Python is a programming language
 
 The heatmap below shows how tokens attend to each other inside the Transformer.
 
-![Self Attention Heatmap](results/output.png)
+![Self Attention Heatmap](output.png)
 
 Each cell represents **attention strength between tokens**.
 
