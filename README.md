@@ -119,10 +119,11 @@ The heatmap below shows how tokens attend to each other inside the Transformer.
 
 Each cell represents **attention strength between tokens**.
 
-- X-axis → Key tokens  
-- Y-axis → Query tokens  
+- **X-axis → Key tokens**
+- **Y-axis → Query tokens**
+- **Brighter colors → Stronger attention weight**
 
-Brighter colors indicate stronger attention.
+This visualization helps interpret how the transformer distributes attention across tokens when reconstructing masked words.
 
 ---
 
